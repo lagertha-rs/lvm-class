@@ -6,7 +6,7 @@
 //! # Usage
 //!
 //! ```
-//! use jclass::prelude::*;
+//! use lvm_class::prelude::*;
 //! ```
 
 // Core class file structure
