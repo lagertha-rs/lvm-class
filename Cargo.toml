@@ -22,6 +22,6 @@ itertools = "0.14.0"
 
 either = "1.15.0" # TODO: add only under javap_print feature
 
-common = { package = "lvm-common", version = "0.1.0" }
+common = { package = "lvm-common", git = "https://github.com/lagertha-rs/lvm-common", branch = "main" }
 
 [dev-dependencies]
